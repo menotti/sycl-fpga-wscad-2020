@@ -1,0 +1,5 @@
+ALUTs,Registers,Logic utilization,DSP blocks,RAM blocks,plataforma,versão
+73637,121335,85568,2,517,Intel PAC Platform (pac_ee00000),original
+83639,128218,95273,2,537,Intel PAC Platform (pac_ee00000), local_memory
+133770,172310,127001,64,1030,Intel PAC Platform (pac_ee00000), unroll
+115876,159260,115789,64,1125,Intel PAC Platform (pac_ee00000), banking
