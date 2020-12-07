@@ -8,3 +8,5 @@
 * [Praticando o Fluxo de Desenvolvimento FPGA](labs/lab2/fpga_dev_flow.ipynb)
 * [Otimizando o kernel da Transformada de Hough](labs/lab3/Optimizing_the_Hough_Transform_Kernel.ipynb)
 
+# Gravação
+https://youtu.be/PMjJIyvEVUs?t=8400
